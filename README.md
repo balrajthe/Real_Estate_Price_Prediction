@@ -9,6 +9,28 @@
 >
 > **Disclaimer:** I used 99acres.com data in this project and I used those data for educational purposes only.
 
+## Features
+### •	Price Prediction Page: 
+  Users can input different property features (like Property type, bedrooms, balconies, etc) and hit the Predict button to get the estimated price.
+  
+### •	The Analytics Page :
+  This page shows some interesting insights regarding the Real Estate of the City (Gurgaon).
+  
+### •	Recommendation Page 
+  In this page, we will get nearby properties within a selected area and radius. Second properties will be recommended based on the selected property.
+
+  ## Tech Stack
+
+|                 Tech | Stack                       |
+| -------------------: | :-------------------------- |
+| Programming Language | Python                      |
+|      Version Control | Git & GitHub                |
+|        Data Analysis | Pandas, Numpy               |
+|        Visualization | Matplotlib, Seaborn, Plotly |
+|     Machine Learning | Scikit-Learn                |
+|   Frontend & Backend | Streamlit                   |
+|           Deployment | AWS EC2                     |
+
 
 ## Problem Definition
 This project aims to predict real estate prices by analyzing various property features and market conditions. The goal is to develop a model that can accurately estimate the price of a property based on its attributes.
@@ -52,17 +74,7 @@ File name: `Real Estate Price Prediction Project Flow.xlsx`
 ## Project Review and Reflection
 The project was reviewed to identify successes and areas for improvement. A continuous thought process is done to improve this project further. For example: bringing in more data from other cities, incorporating more features and options for the user to select, and incorporating an insights page which would provide more information on the price variation and prediction.
 
-## Tech Stack
 
-|                 Tech | Stack                       |
-| -------------------: | :-------------------------- |
-| Programming Language | Python                      |
-|      Version Control | Git & GitHub                |
-|        Data Analysis | Pandas, Numpy               |
-|        Visualization | Matplotlib, Seaborn, Plotly |
-|     Machine Learning | Scikit-Learn                |
-|   Frontend & Backend | Streamlit                   |
-|           Deployment | AWS EC2                     |
 
 ## Installation
 
